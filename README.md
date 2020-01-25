@@ -1,4 +1,4 @@
-A place where I keep track of resources that I need / might need for projects, etc. __Some of theese apply to web development only.__
+A place where I keep track of resources that I need / might need for projects, etc. __Some of these apply to web development only.__
 
 ## Design / Illustrations / etc.
 - <a href="https://humaaans.com">Humaaans</a> - free illustrations for websites
